@@ -44,4 +44,5 @@ All my work experience I dream about profession, which will inspire me and grow 
 ### Languages
 
 - **English** - A2 [Test in Cambrige website](https://www.cambridgeenglish.org/test-your-english/general-english/results-3/?score=14&id=034c8fdf-0d1f-4b39-9c3b-ed362e0438c4)
+  - I have continued to study English with a tutor for the present day.
 - **Russian** - native
