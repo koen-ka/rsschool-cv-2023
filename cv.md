@@ -2,8 +2,6 @@
 
 ## Junior Frontend Developer
 
----
-
 ### Contacts
 
 - **e-mail:** koenkatecalm@gmail.com
