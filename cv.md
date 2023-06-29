@@ -23,3 +23,13 @@ All my work experience I dream about profession, which will inspire me and grow 
 - Git/ Github 
 - VSCode 
 
+---
+
+### Education
+
+- **2023-now** Rolling Scopes School [Preparatory course *«JavaScript/Front-end. Stage 0»*](https://rs.school/js-stage0/)
+- **2023-now** SkillBox *Web layout "Basic level"*
+- **2022-now** Study English with a tutor
+- **2011-2016** Educational institution «Vitebsk State Technological University». Specialization "Interior Designer"
+
+---
