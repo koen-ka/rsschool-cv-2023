@@ -1,1 +1,1 @@
-# Some taxt for readme
+# Some text for readme
