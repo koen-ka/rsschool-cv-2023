@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'InterTight';
+    src: local('InterTightLight'),
+        url('fonts/InterTightLight.woff2') format('woff2'),
+        url('fonts/InterTightLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
