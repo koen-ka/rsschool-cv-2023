@@ -162,6 +162,10 @@ p {
     background-size: 31px 27px;
 }
 
+.hover:hover {
+    color: #C2A778;
+}
+
 .address {
     font-style: normal;
 }
@@ -240,6 +244,10 @@ p {
     font-size: 22px;
     font-weight: 300;
     line-height: 150%;
+}
+
+.about_myself:not(:last-child) {
+    padding-bottom: 20px;
 }
 
 .title_right {
